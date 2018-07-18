@@ -2,7 +2,7 @@
 
 Lunar is an iOS Anemone Theme inspired by the iOS 12 Design.
 
-Download: (soon)
+Download: ***(soon)***
 
 ## Roadmap
 
@@ -19,11 +19,11 @@ Redesigning
 - Cydia Tweak Apps (e.g. Anemone, iCleaner & Filza)
 - third-party Apps (e.g. Snapchat, YouTube & Instagram)
 - Control Center Icons
-- the UI
+- the User Interface
 
 ## Screenshots
 
-(coming soon)
+***(coming soon)***
 
 ## Contributing
 
