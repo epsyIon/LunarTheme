@@ -14,7 +14,7 @@ Everything that's already implemented & planned changes.
 
 ### Planned:
 
-Redesigning
+Redesigning...
 
 - Cydia Tweak Apps (e.g. Anemone, iCleaner & Filza)
 - third-party Apps (e.g. Snapchat, YouTube & Instagram)
@@ -28,9 +28,9 @@ Redesigning
 ## Contributing
 
 - Download and install the Theme from Cydia
-- Find a App without a cool looking custom icon
-- [Open a new issue](https://github.com/EPSYLON2K/LunarTheme/issues/new) and tell me about it
-- Look forward to the new upcoming update! 🎉
+- Find an App without a cool looking custom icon
+- [Open a new issue](https://github.com/EPSYLON2K/LunarTheme/issues/new) and tell me all about it
+- Look forward to the next upcoming update! 🎉
 
 ## Found a bug?
 
