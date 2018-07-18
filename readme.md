@@ -1,6 +1,6 @@
-# Lunar - iOS 12 Theme
+# <img src="https://i.imgur.com/M2m7Kof.png" width="24"> Lunar - iOS 12 Theme
 
-<img src="https://i.imgur.com/M2m7Kof.png" width="24"> Lunar is an iOS Anemone Theme inspired by the iOS 12 Design.
+Lunar is an iOS Anemone Theme inspired by the iOS 12 Design.
 
 ## About Me
 
