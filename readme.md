@@ -1,6 +1,4 @@
-<div style="text-align:center"><img src ="https://i.imgur.com/M2m7Kof.png" /></div>
-
-<img src="https://i.imgur.com/M2m7Kof.png" width="200">
+<div style="text-align:center"><img src ="https://i.imgur.com/M2m7Kof.png" width="200" /></div>
 
 # Lunar - iOS 12 Theme
 
