@@ -10,17 +10,16 @@ Everything that's already implemented & planned changes.
 
 ### Currently implemented:
 
-- Optimized standard App Icons
+- Standard Apps (e.g. Settings, Apple Music & Safari)
 
 ### Planned:
 
 Redesigning...
 
-- Cydia Tweak Apps (e.g. Anemone, iCleaner & Filza)
-- third-party Apps (e.g. Snapchat, YouTube & Instagram)
+- Cydia Tweak Apps (e.g. Anemone, Cydia & Filza)
+- Third-Party Apps (e.g. Snapchat, YouTube & Dribble)
 - Control Center Icons
 - User Interface
-- Settings
 
 ## Screenshots
 
